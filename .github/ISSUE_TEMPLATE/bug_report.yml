@@ -1,6 +1,7 @@
 name: Bug Report
 description: File a bug report
 title: "What's bugging you?"
+placeholder: abcd
 labels: ["bug", "triage"]
 assignees:
   - octocat
